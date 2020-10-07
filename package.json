@@ -1,13 +1,13 @@
 {
-    "name": "Among-Us",
-    "version": "1.0.0",
-    "description": "Among Us bot",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node .",
-      },
-    "keywords": [],
-    "author": "",
-    "license": "ISC"
-  }
+  "name": "Among-Us",
+  "version": "1.0.0",
+  "description": "Among Us bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
